@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Douglas Gioielli</h1>
 <h3 align="center">Um programador da Claudio Puga e Engenheiros Associados.</h3>
 
-- 🔭 I’m currently working on **Ferramentas internas**
+- 🔭 I’m currently working on **Tools for civil engineering** and **Tools to help organize RPG stuff**
 
 - 💬 Ask me about **C#, .NET, AutoCad e Revit**
 
-- 📫 How to reach me **douglas@claudiopuga.com.br**
+- 📫 How to reach me **douglasgioielli@gmail.br**
 
-- ⚡ Fun fact **Sou um Físico que pratica Kendo.**
+- ⚡ Fun fact **Sou um Físico que pratica Kendo e joga RPG.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
